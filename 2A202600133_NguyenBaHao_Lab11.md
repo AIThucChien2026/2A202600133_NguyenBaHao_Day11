@@ -2,7 +2,9 @@
 ## Defense-in-Depth Pipeline Analysis (Báo cáo thực nghiệm trung thực)
 
 **Student**: Nguyen Ba Hao 
+
 **ID**: 2A202600133  
+
 **Date**: April 16, 2026
 
 ---
@@ -84,4 +86,5 @@ Kết quả thực nghiệm cho thấy sự an toàn của AI là tương đối
 ---
 
 **Signature**: Nguyen Ba Hao
+
 **Date**: April 16, 2026
